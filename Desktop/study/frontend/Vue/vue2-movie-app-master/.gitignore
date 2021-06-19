@@ -1,9 +1,0 @@
-.cache/
-.idea/
-.DS_Store/
-node_modules/
-dist/
-cypress/screenshots
-cypress/videos
-
-.env
